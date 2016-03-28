@@ -1,4 +1,4 @@
-# enzyme-bug
+# enzyme / react-i18next bug
 
 * `git clone https://github.com/sorahn/enzyme-bug`
 * `npm install`
